@@ -1,0 +1,72 @@
+===========================================================================
+Title                   : Ledge Maze
+Filename                : ledge.wad
+Advanced engine needed  : ZDoom
+Primary purpose         : Single play
+Author                  : Jon Landis
+Email Address           : jjjhhhlll@gmail.com
+
+Description             : A techbase with three levels of confusing ledges.
+                        : Can you discover the secrets of the ledge maze?
+                        :
+                        : This is my first map for zdoom.  I tried out a lot of new features
+                        : that were not available when I made maps in the days of DOS and modems.
+                        : 
+                        : Here we have
+                        : * Many 3d floors
+                        : * Sector based triggers
+                        : * Scripting
+                        : * New textures made of existing patches
+                        : * Monster death triggers
+                        : * Sideways opening doors
+                        : * New powerups
+                        : * mp3 soundtrack (Tin Abyss by Jon Landis)
+                        :
+                        : It plays in a traditional doom way, without mouselook.  
+                        : GZDoom and hardware acceleration recommended, though it should work in zdoom 2.8.1 
+                        : with slowdowns in some areas.
+                        
+
+Additional Credits to   : 
+===========================================================================
+
+* Information *
+
+Game                    : DOOM2
+Map #                   : Map01
+Single Player           : Yes 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Dehacked/BEX Patch      : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Working on and off on this since 2015
+Editor(s) used          : DoomBuilder 2, GZDoom Builder, Ultimate Doom Builder, SLADE3
+Known Bugs              : 
+May Not Run With        : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+Websites:
+
+Other:
