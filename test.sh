@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gzdoom -file ./ledge.wad -nomonsters +map MAP01
+gzdoom -file ./ledge.wad +map MAP01 $@
